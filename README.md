@@ -7,7 +7,7 @@ I'm not saying I'm the best, but I did win the 'Best Freelancer in my Apartment 
     <a href="mailto:robert.lopez160192@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
-    <a href="https://join.skype.com/invite/OpDOxsZXad4o">
+    <a href="https://join.skype.com/invite/live:.cid.124c99e7aec1e9c2">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
