@@ -11,6 +11,7 @@ I am a full-stack engineer with several years of experience in Web development. 
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badass1901" alt="badass1901" /></a> </div>
 
 ---
 <div align="center">
