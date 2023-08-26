@@ -11,6 +11,18 @@ I am a full-stack engineer with several years of experience in Web development. 
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
+
+---
+### 🧑‍💻 Languages
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![php](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
+![C#](https://img.shields.io/badge/csharp-FFD43B?style=for-the-badge&logo=c#&logoColor=green)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E)
+
 <div align="center">
     <h1 align="center"> ️💚️ Agradecimientos 💚 </h1>
 
@@ -27,16 +39,6 @@ I am a full-stack engineer with several years of experience in Web development. 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
 
----
-### 🧑‍💻 Languages
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![php](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
-![C#](https://img.shields.io/badge/csharp-FFD43B?style=for-the-badge&logo=c#&logoColor=green)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E)
 
 ### 🧩 Frameworks/Libraries
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
