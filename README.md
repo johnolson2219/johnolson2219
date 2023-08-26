@@ -41,4 +41,4 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=8" alt="badass1901" />
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=6" alt="badass1901" />
 </div>
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaster05330&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+https://camo.githubusercontent.com/9f95d0610b9f2cee55d570981b6587a404b7d85c301a5c1072a22a8b4b657617/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d636f64656d617374657230353333302662675f636f6c6f723d31323131316426636f6c6f723d666666666666266c696e653d31303535653026706f696e743d30306666313126617265613d7472756526686964655f626f726465723d74727565
