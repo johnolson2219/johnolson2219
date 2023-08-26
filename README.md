@@ -36,7 +36,7 @@ I am a full-stack engineer with several years of experience in Web development. 
 </div>
 <div align="left"> 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=7" alt="badass1901" />
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&row=1&column=6" alt="badass1901" />
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=6" alt="badass1901" />
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=6" alt="badass1901" />
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&row=1&column=7" alt="badass1901" />
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=7" alt="badass1901" />
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=7" alt="badass1901" />
 </div>
