@@ -13,56 +13,11 @@ I am a full-stack engineer with several years of experience in Web development. 
 </div>
 
 ---
-### 🧑‍💻 Languages
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![php](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
-![C#](https://img.shields.io/badge/csharp-FFD43B?style=for-the-badge&logo=c#&logoColor=green)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E)
-
-
-### 🧩 Frameworks/Libraries
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![next.js](https://img.shields.io/badge/next-323330?style=for-the-badge&logo=next.js&logoColor=black)
-![angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=Angular&logoColor=red)
-![vue.js](https://img.shields.io/badge/vue-323330?style=for-the-badge&logo=vue.js&logoColor=green)
-![nuxt.js](https://img.shields.io/badge/Nuxt.js-323330?style=for-the-badge&logo=nuxt.js&logoColor=green)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-323330?style=for-the-badge&logo=laravel&logoColor=red)
-![Codeigniter](https://img.shields.io/badge/codeigniter-323330?style=for-the-badge&logo=codeigniter&logoColor=red)
-![django](https://img.shields.io/badge/django-323330?style=for-the-badge&logo=django&logoColor=green)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.Net](https://img.shields.io/badge/.Net-323330?style=for-the-badge&logo=.net&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/TailwindCss-323330?style=for-the-badge&logo=tailwindcss&logoColor=blue)
-
-
-### 🗃️ Databases
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![mysql](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
-
-### ⚒️ Tools
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### 💻 Workspace
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0096D6?style=for-the-badge&logo=linux&logoColor=white)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://camo.githubusercontent.com/947fe076b7b96c352c49d82fdbc3a44b67230c451df07e1b645d9f92df14a364/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b65722c6b756265726e657465732c6a656e6b696e732c616e7369626c652c2c68746d6c2c6373732c6a732c74732c6e6578742c6e7578742c72656163742c2c736f6c69646974792c70726f6d6574686575732c616e64726f696473747564696f2c666c75747465722c7265616374697665782c6177732c617a7572652c636c6f7564666c6172652c2c616e67756c61722c7675652c707974686f6e2c646a616e676f2c7261696c732c727562792c7068702c2c666173746170692c676f2c6a6176612c636f646570656e2c6769742c6769746875622c6769746c61622c706f73746d616e2c2c6c61726176656c2c6e6f64656a732c657870726573732c6669676d612c71742c632c6370702c2c646973636f72642c626f74732c7265616374697665782c73776966742c706f7765727368656c6c2c737461636b6f766572666c6f772c7374796c6564636f6d706f6e656e74732c7765627061636b2c2c63732c776f726470726573732c6d7973716c2c706f737467726573716c2c66697265626173652c666c61736b2c646f746e65742c2c6b6f746c696e2c756e6974792c6c696e75782c656c656374726f6e267065726c696e653d3137" />
+  </a>
+</div>
 
 <div align="center">
     <h1 align="center"> ️💚️ Agradecimientos 💚 </h1>
