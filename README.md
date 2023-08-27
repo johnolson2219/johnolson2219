@@ -8,12 +8,14 @@ However, I am here to shed light on the utmost importance of being a freelancer.
     <a href="mailto:robert.lopez160192@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <a href="https://join.skype.com/invite/joVGUCaKJ2iB">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
-
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster05330&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 ---
 <div align="center">
   <a href="https://skillicons.dev">
