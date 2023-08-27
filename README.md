@@ -51,23 +51,91 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <div id="avatars"></div>
 
 <script>
-  // Fetch followers data from an API
-  fetch('https://api.example.com/followers')
-    .then(response => response.json())
-    .then(data => {
-      const avatarsContainer = document.getElementById('avatars');
-      
-      // Iterate through the followers and generate avatars
-      data.forEach(follower => {
-        const avatarImg = document.createElement('img');
-        avatarImg.src = follower.avatar_url;
-        avatarImg.alt = follower.login;
-        avatarImg.title = follower.login;
-        avatarImg.style.width = '50px';
-        avatarImg.style.height = '50px';
-        
-        avatarsContainer.appendChild(avatarImg);
-      });
-    })
-    .catch(error => console.error(error));
+var username = 'cartazio';
+var nextPage;
+
+// bind click event for button
+$('#load').on('click', function() {
+  getFollowers(nextPage);
+});
+
+// getFollowers function with one parameter - current page
+function getFollowers(page) {
+
+  // how many followers per page to retrieve
+  perPage = 100;
+
+  // update next page global variable
+  nextPage = page + 1;
+
+  $.ajax({
+    url: 'https://api.github.com/users/' + username + '/followers?per_page=' + perPage + '&page=' + page,
+    data: {
+      client_id: '9ecc0f206ecd34f2f552',
+      client_secret: '6eee17df91630a531ea2acf49848dec408079e9c'
+    }
+  }).done(function(followers) {
+    $.each(followers, function(index, follower) {
+      $('#followers').append(`
+            <div>
+              <div class="row">
+                <div class="col-md-10">
+                <img class="follower-avatar" src="${follower.avatar_url}" alt="" />
+                <p>${follower.login}</p>
+                </div>
+                <div class="col-md-2">
+                  <a href="${follower.html_url}" target="_blank" class="btn">View profile</a>
+                </div>
+              </div>
+            </div>
+          `);
+    });
+
+    // if the array returned has fewer people than we requested per page,
+    // we've found all the followers. hide the button
+    if (followers.length < perPage) {
+      $('button').hide();
+    }
+  });
+}
+
+// Make request to Github
+$.ajax({
+  url: 'https://api.github.com/users/' + username,
+  data: {
+    client_id: '9ecc0f206ecd34f2f552',
+    client_secret: '6eee17df91630a531ea2acf49848dec408079e9c'
+  }
+}).done(function(user) {
+  // Get first page of followers
+  getFollowers(1);
+  // Profile HTML
+  $('#profile').html(`
+        <div>
+          <div>
+            <div class="row">
+              <div class="col-md-3">
+                <img  src="${user.avatar_url}">
+                <div>
+            		<h3>${user.name}</h3>
+          		</div>
+                <a target="_blank" class="btn" href="${user.html_url}">View Profile</a>
+              </div>
+              <div class="col-md-9">
+              <div>
+              	<h1>Followers</h1> <br/>
+              	<p>${user.followers}</p>
+              </div>
+              <div>
+              	<h1>Followers</h1> <br/>
+              	<p>2313123</p>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3 class="page-header">${user.name}'s followers</h3>
+        <div id="followers"></div>
+      `);
+});
 </script>
