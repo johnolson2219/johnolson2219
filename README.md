@@ -41,3 +41,33 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=8" alt="badass1901" />
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=6" alt="badass1901" />
 </div>
+
+
+
+
+## Contributors
+
+<!-- Dynamically generate avatars of all followers -->
+<div id="avatars"></div>
+
+<script>
+  // Fetch followers data from an API
+  fetch('https://api.example.com/followers')
+    .then(response => response.json())
+    .then(data => {
+      const avatarsContainer = document.getElementById('avatars');
+      
+      // Iterate through the followers and generate avatars
+      data.forEach(follower => {
+        const avatarImg = document.createElement('img');
+        avatarImg.src = follower.avatar_url;
+        avatarImg.alt = follower.login;
+        avatarImg.title = follower.login;
+        avatarImg.style.width = '50px';
+        avatarImg.style.height = '50px';
+        
+        avatarsContainer.appendChild(avatarImg);
+      });
+    })
+    .catch(error => console.error(error));
+</script>
