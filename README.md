@@ -12,8 +12,11 @@ However, I am here to shed light on the utmost importance of being a freelancer.
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
+
+
+## ⚡ Status
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster05330&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img align="left" width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster05330&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
 ---
