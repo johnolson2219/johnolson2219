@@ -47,8 +47,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 </div>
 <div align="center">
  <div align="left" width="50%">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=4" alt="badass1901" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&row=2&column=4" alt="badass1901" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=4&column=4" alt="badass1901" />
 </div>
 <div align="right" width="50%">
  <a href="https://cumsoft.gumroad.com/l/OvenLTE">
@@ -56,6 +55,12 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 </a>
 <a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak1">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Cursorority_Pak1_Flyer2.jpg" alt="Cursorority_Pak1" style="width:90px;height:140px;">
+</a>
+<a href="https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak2beta">
+  <img src="https://github.com/cumsoft/cumsoft/blob/da080c90b9d3d8b3374742ec79871a0b2760ca8f/Cursorority_Pak2_Flyer2.jpg" alt="Cumsoft_Cursorority_Pak2beta" style="width:90px;height:140px;">
+</a>
+<a href="https://cumsoft.gumroad.com/l/Vikiki">
+  <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/Vikiki_Flyer2.jpg" alt="Vikiki" style="width:90px;height:140px;">
 </a>
 </div>
 </div>
