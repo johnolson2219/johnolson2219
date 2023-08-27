@@ -46,13 +46,8 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
 <div align="center">
-<div width="50%" align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=4" alt="badass1901" />
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&row=1&column=4" alt="badass1901" />
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=4" alt="badass1901" />
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=4" alt="badass1901" />
-</div>
-<div width="50%" align="right">
- <a href="https://twitter.com/github/status/1306586113293729795"><img width="50%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a>
-</div> 
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=8" alt="badass1901" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&row=1&column=8" alt="badass1901" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=8" alt="badass1901" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=8" alt="badass1901" />
 </div>
