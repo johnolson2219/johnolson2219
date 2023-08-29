@@ -16,7 +16,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 ## ⚡ Status
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeRockStar1992&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster05330&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%'>
      <img align="right" width='50%'  height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </a>
@@ -46,7 +46,9 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
 <div align="center">
- <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeRockStar1992&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+   <a width='50%' href="https://github.com/codemaster05330?tab=achievements">
+    <img align="left" width="50%" src="https://github-profile-trophy.vercel.app/?username=codeRockStar1992&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  </a>
 <div align="right" width="50%">
  <a href="https://cumsoft.gumroad.com/l/OvenLTE">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:90px;height:140px;">
