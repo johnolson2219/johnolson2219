@@ -46,9 +46,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
 <div align="center">
- <div align="left" width="50%">
-  <img align="left" width="50%" height="250px" src="https://github-profile-trophy.vercel.app/?username=codeRockStar1992&theme=onedark&row=2&column=4" alt="badass1901" />
-</div>
+ <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeRockStar1992&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 <div align="right" width="50%">
  <a href="https://cumsoft.gumroad.com/l/OvenLTE">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:90px;height:140px;">
