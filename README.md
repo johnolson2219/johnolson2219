@@ -47,7 +47,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 </div>
 <div align="center">
  <div align="left" width="50%">
-  <img align="left" width="50%" height="250px" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=4" alt="badass1901" />
+  <img align="left" width="50%" height="250px" src="https://github-profile-trophy.vercel.app/?username=codeRockStar1992&theme=onedark&row=2&column=4" alt="badass1901" />
 </div>
 <div align="right" width="50%">
  <a href="https://cumsoft.gumroad.com/l/OvenLTE">
