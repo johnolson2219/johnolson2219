@@ -5,10 +5,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
 
 <h2 align="center">🤝 Intouch with me </h2>
 <div align="center">
-    <a href="mailto:robert.lopez160192@gmail.com">
-        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
-    </a>
-    <a href="https://join.skype.com/invite/joVGUCaKJ2iB">
+    <a href="https://join.skype.com/invite/aJmZgas3b6p8">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
